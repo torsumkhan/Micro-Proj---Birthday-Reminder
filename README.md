@@ -2,4 +2,4 @@
 
 Simple react micro project to practice React everyday.
 
-![](name-of-giphy.gif)
+![](https://github.com/torsumkhan/Micro-Proj---Birthday-Reminder/blob/master/images/birthday-reminder-gif.gif?raw=true)
